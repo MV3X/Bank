@@ -555,4 +555,7 @@ body {
     .main__cart-text2 {
         margin-left: 10px;
     }
+    .header__content-title {
+        font-size: 20px;
+    }
 }
