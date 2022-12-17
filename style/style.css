@@ -547,6 +547,9 @@ body {
     .header__content-title {
         text-align: center;
     }
+    .credit__item-text {
+        font-size: 12px;
+    }
 }
 @media (max-width:330px) {
     .kurs__item-span::after {
